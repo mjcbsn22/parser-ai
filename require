@@ -1,0 +1,7 @@
+my_lib.rb(main):001:0> require 'nokogiri'
+=> true
+my_lib.rb(main):002:0> require 'open-uri'
+=> true
+my_lib.rb(main):003:0> 
+my_lib.rb(main):004:0* 
+my_lib.rb(main):004:0> 
